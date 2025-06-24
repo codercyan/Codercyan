@@ -123,7 +123,7 @@ At **Codercyan**, we build scalable, secure, and innovative digital products acr
   <img src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" width="40" height="40" alt="Web3.js" />
   <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" width="40" height="40" alt="Web3.js" />
   <img src="https://icon.icepanel.io/Technology/svg/Rust.svg" width="40" height="40" alt="Web3.js" />
-  <img src="https://icon.icepanel.io/Technology/svg/Rust.svg" width="40" height="40" alt="Web3.js" />
+  <img src="https://icon.icepanel.io/Technology/svg/Firebase.svg" width="40" height="40" alt="Web3.js" />
  <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="40" height="40" alt="Web3.js" />
  <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" width="40" height="40" alt="Web3.js" />
 
