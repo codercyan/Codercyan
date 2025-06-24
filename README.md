@@ -10,90 +10,94 @@
 
 ---
 
-🧠 About Us
-At Codercyan, we build scalable, secure, and innovative digital products across Web2 and Web3 ecosystems. Our team specializes in full-stack development, blockchain engineering, marketing automation, and crypto-native solutions.
 
-🖼️ Frontend Development
-Crafting stunning, high-performance interfaces with cutting-edge technologies:
 
-🎨 Modern UI/UX
 
-📱 Responsive Design
 
-⚡ Performance Optimized
-Tech: React · Next.js · TypeScript · Tailwind CSS
+## 🧠 About Us
 
-🔧 Backend Development
-Building secure and scalable server-side applications and APIs:
+At **Codercyan**, we build scalable, secure, and innovative digital products across Web2 and Web3. We specialize in full-stack development, blockchain engineering, marketing automation, and crypto-native solutions.
 
-🚀 High Performance
+---
 
-🏗️ Scalable Architecture
+### 🖼️ Frontend Development
 
-🔐 Secure & Maintainable
-Tech: Node.js · Express · PostgreSQL · MongoDB
+* 🎨 Modern UI/UX
+* 📱 Responsive Design
+* ⚡ Performance Optimized
+  **Tech:** React · Next.js · TypeScript · Tailwind CSS
 
-📢 Marketing Management
-Driving digital growth with full-funnel strategies:
+---
 
-📊 Data-Driven Insights
+### 🔧 Backend Development
 
-🎯 ROI Focused Campaigns
+* 🚀 High Performance
+* 🏗️ Scalable Architecture
+* 🔐 Secure & Maintainable
+  **Tech:** Node.js · Express · PostgreSQL · MongoDB
 
-🔍 SEO & Content Optimization
-Tools: Analytics · Social Media · Content · Strategy
+---
 
-🔐 Smart Contract Development
-Deploying secure and gas-optimized smart contracts:
+### 📢 Marketing Management
 
-✅ Security Audited
+* 📊 Data-Driven Insights
+* 🎯 ROI Focused Campaigns
+* 🔍 SEO & Content Optimization
+  **Tools:** Analytics · Social Media · Content · Strategy
 
-🧪 Gas Optimized
+---
 
-📄 ERC Standards Support
-Tech: Solidity · Hardhat · OpenZeppelin · Web3.js
+### 🔐 Smart Contract Development
 
-🌐 DApp Development
-Building modern decentralized apps with seamless Web3 integration:
+* ✅ Security Audited
+* 🧪 Gas Optimized
+* 📄 ERC Standards Support
+  **Tech:** Solidity · Hardhat · OpenZeppelin · Web3.js
 
-🔗 Wallet Connect
+---
 
-🔄 Cross-chain Support
+### 🌐 DApp Development
 
-🌍 IPFS & Ethereum Support
-Tech: React · Web3.js · MetaMask · IPFS
+* 🔗 Wallet Connect
+* 🔄 Cross-chain Support
+* 🌍 IPFS & Ethereum Integration
+  **Tech:** React · Web3.js · MetaMask · IPFS
 
-🪙 Token Development
-Launch custom tokens and presale platforms with advanced features:
+---
 
-🤖 Anti-Bot Systems
+### 🪙 Token Development
 
-🌐 Multi-Chain Deployments
+* 🤖 Anti-Bot Protection
+* 🌐 Multi-Chain Deployment
+* ⛓️ Vesting & Launchpads
+  **Tech:** ERC20 · Tokenomics · Automation
 
-⛓️ Vesting & Launchpads
-Tech: ERC20 · Tokenomics · Automation
+---
 
-💱 Exchange Platforms
-Create secure and high-performance crypto exchanges:
+### 💱 Exchange Platforms
 
-⚙️ Automated Market Makers (AMMs)
+* ⚙️ AMM & Order Book Models
+* 📉 Advanced Trading Features
+* 💧 Liquidity Management
+  **Features:** High Frequency · Low Latency · Security
 
-📉 Order Book Models
+---
 
-💧 Liquidity Management
-Features: High Frequency · Low Latency · Secure Trading
+### 🤖 Trading Bots & Automation
 
-🤖 Trading Bots & Automation
-Automate your trading strategies and community engagement:
+* 🧠 AI-Powered Bots
+* ⏱️ 24/7 Trading
+* 🛡️ Risk Management
+  **Tech:** Node.js · APIs · Telegram Bots · Analytics
 
-🧠 AI-Enhanced Bots
+---
 
-⏱️ 24/7 Uptime
+> 🧊 *Hire world-class blockchain developers today*
 
-🛡️ Risk Controls
-Tech: Node.js · APIs · Telegram Bots · Analytics
+---
 
-🧊 We build with curiosity, code with precision, and launch with purpose.
+
+
 ---
 
 ### 🛠️ Tech Stack
