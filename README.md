@@ -10,13 +10,90 @@
 
 ---
 
-### 🧠 About Me
-- 🔭 Currently working on **something really cool**
-- 🧪 Exploring **Web3**, **Smart Contracts**, and **DApps**
-- 🌱 Actively learning **Node.js**, **Solidity**, and **React**
-- 🗂 All of my projects live [here](https://github.com/FreezyEx)
-- 📫 Reach me via email: [0xfreezy@protonmail.com](mailto:0xfreezy@protonmail.com)
+🧠 About Us
+At Codercyan, we build scalable, secure, and innovative digital products across Web2 and Web3 ecosystems. Our team specializes in full-stack development, blockchain engineering, marketing automation, and crypto-native solutions.
 
+🖼️ Frontend Development
+Crafting stunning, high-performance interfaces with cutting-edge technologies:
+
+🎨 Modern UI/UX
+
+📱 Responsive Design
+
+⚡ Performance Optimized
+Tech: React · Next.js · TypeScript · Tailwind CSS
+
+🔧 Backend Development
+Building secure and scalable server-side applications and APIs:
+
+🚀 High Performance
+
+🏗️ Scalable Architecture
+
+🔐 Secure & Maintainable
+Tech: Node.js · Express · PostgreSQL · MongoDB
+
+📢 Marketing Management
+Driving digital growth with full-funnel strategies:
+
+📊 Data-Driven Insights
+
+🎯 ROI Focused Campaigns
+
+🔍 SEO & Content Optimization
+Tools: Analytics · Social Media · Content · Strategy
+
+🔐 Smart Contract Development
+Deploying secure and gas-optimized smart contracts:
+
+✅ Security Audited
+
+🧪 Gas Optimized
+
+📄 ERC Standards Support
+Tech: Solidity · Hardhat · OpenZeppelin · Web3.js
+
+🌐 DApp Development
+Building modern decentralized apps with seamless Web3 integration:
+
+🔗 Wallet Connect
+
+🔄 Cross-chain Support
+
+🌍 IPFS & Ethereum Support
+Tech: React · Web3.js · MetaMask · IPFS
+
+🪙 Token Development
+Launch custom tokens and presale platforms with advanced features:
+
+🤖 Anti-Bot Systems
+
+🌐 Multi-Chain Deployments
+
+⛓️ Vesting & Launchpads
+Tech: ERC20 · Tokenomics · Automation
+
+💱 Exchange Platforms
+Create secure and high-performance crypto exchanges:
+
+⚙️ Automated Market Makers (AMMs)
+
+📉 Order Book Models
+
+💧 Liquidity Management
+Features: High Frequency · Low Latency · Secure Trading
+
+🤖 Trading Bots & Automation
+Automate your trading strategies and community engagement:
+
+🧠 AI-Enhanced Bots
+
+⏱️ 24/7 Uptime
+
+🛡️ Risk Controls
+Tech: Node.js · APIs · Telegram Bots · Analytics
+
+🧊 We build with curiosity, code with precision, and launch with purpose.
 ---
 
 ### 🛠️ Tech Stack
