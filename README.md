@@ -107,7 +107,7 @@ At **Codercyan**, we build scalable, secure, and innovative digital products acr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
+  <img src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg" width="40" height="40" />
   
   <!-- Backend & Database -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
@@ -119,6 +119,8 @@ At **Codercyan**, we build scalable, secure, and innovative digital products acr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40" />
   <img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="40" height="40" alt="Hardhat" />
   <img src="https://icon.icepanel.io/Technology/svg/Laravel.svg" width="40" height="40" alt="Web3.js" />
+    <img src="https://icon.icepanel.io/Technology/svg/Laravel.svg" width="40" height="40" alt="Web3.js" />
+
 
   <!-- Tools & DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
