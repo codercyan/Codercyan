@@ -118,7 +118,7 @@ At **Codercyan**, we build scalable, secure, and innovative digital products acr
   <!-- Web3 & Blockchain -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40" />
   <img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="40" height="40" alt="Hardhat" />
-  <img src="https://web3js.readthedocs.io/en/v1.8.1/_static/web3js.svg" width="40" height="40" alt="Web3.js" />
+  <img src="https://icon.icepanel.io/Technology/svg/Laravel.svg" width="40" height="40" alt="Web3.js" />
 
   <!-- Tools & DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
