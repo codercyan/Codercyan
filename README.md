@@ -4,9 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=FreezyEx&label=Profile%20views&color=0e75b6&style=flat" alt="FreezyEx" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web3%20Enthusiast%20🚀;Node.js%20%26%20Solidity%20Developer💻;Always%20Curious%20and%20Building%20🔥&center=true&width=500&height=45">
-</p>
 
 ---
 
