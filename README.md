@@ -122,7 +122,7 @@ At **Codercyan**, we build scalable, secure, and innovative digital products acr
 
   <!-- Tools & DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://www.logo.wine/a/logo/Solidity/Solidity-Logo.wine.svg" width="40" height="40" />
+  <img src="https://icon.icepanel.io/Technology/svg/Hardhat.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
 </p>
 
